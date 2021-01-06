@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jameszedd - c++ developer</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://starry99.github.io/catbook/</link>
+    <atom:link href="http://starry99.github.io/catbook/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 06 Jan 2021 02:59:01 -0500</pubDate>
+    <lastBuildDate>Wed, 06 Jan 2021 02:59:01 -0500</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Hello World</title>
+        <description>&lt;p&gt;This is a hello world.&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;hello-world&quot;&gt;Hello World!&lt;/h2&gt;
+
+&lt;h2 id=&quot;code-block&quot;&gt;Code block&lt;/h2&gt;
+&lt;p&gt;A C++ Example:&lt;/p&gt;
+
+&lt;div class=&quot;language-cpp highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;iostream&amp;gt;
+&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;std&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cout&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Hello World!&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;std&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;endl&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;as you can see, everything ok.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Jan 2020 00:00:00 -0500</pubDate>
+        <link>http://starry99.github.io/catbook/2020-01/hello-world</link>
+        <guid isPermaLink="true">http://starry99.github.io/catbook/2020-01/hello-world</guid>
+        
+        
+        <category>dev</category>
+        
+      </item>
+    
+  </channel>
+</rss>
